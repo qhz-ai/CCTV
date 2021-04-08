@@ -1,0 +1,49 @@
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.exe
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\bin\PreviewDemo.pdb
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.PTZControl.resources
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.exe
+D:\code\CH-HCNetSDKV5.3.5.46_build20180518_Win64\Demo示例\3- C# 开发示例\1-实时预览示例代码一\PreviewDemo\obj\Debug\PreviewDemo.pdb
+D:\code\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.exe
+D:\code\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.pdb
+D:\code\HaiKang\PreviewDemo\bin\PreviewDemo.exe
+D:\code\HaiKang\PreviewDemo\bin\PreviewDemo.pdb
+D:\code\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+D:\code\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+D:\code\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.PTZControl.resources
+D:\code\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+D:\code\HaiKang\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.exe
+D:\code\HaiKang\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.pdb
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.exe
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.pdb
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\bin\PreviewDemo.exe
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\bin\PreviewDemo.pdb
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Time.resources
+D:\code\RD2XX_CCTV\HaiKang\PreviewDemo\bin\PreviewDemo.exe.config
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\bin\PreviewDemo.exe.config
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.exe
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.pdb
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\bin\PreviewDemo.pdb
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Time.resources
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.TVWall.resources
+C:\Users\72687\Desktop\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.VlcPlayerForm.resources
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\bin\PreviewDemo.exe.config
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\bin\PreviewDemo.exe
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\bin\PreviewDemo.pdb
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csprojResolveAssemblyReference.cache
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Time.resources
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.TVWall.resources
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.VlcPlayerForm.resources
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.csproj.GenerateResource.Cache
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.exe
+E:\tt11t1t1t1t1t\HaiKang_20180810\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.pdb

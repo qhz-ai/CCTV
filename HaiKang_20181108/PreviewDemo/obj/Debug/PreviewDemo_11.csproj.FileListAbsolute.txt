@@ -1,0 +1,11 @@
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\bin\PreviewDemo.exe.config
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.exe
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.pdb
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\bin\PreviewDemo.exe
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\bin\PreviewDemo.pdb
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.Time.resources
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.TVWall.resources
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo.VlcPlayerForm.resources
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo_11.csproj.GenerateResource.Cache
+E:\tt11t1t1t1t1t\HaiKang_2018081_new\HaiKang\PreviewDemo\obj\Debug\PreviewDemo_11.csprojResolveAssemblyReference.cache

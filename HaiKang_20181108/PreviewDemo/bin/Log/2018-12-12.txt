@@ -1,0 +1,891 @@
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:49:26
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1842
+***************************************************************
+
+时间：2018-12-12 08:49:26
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:49:37
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:49:37
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:49:46
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1038
+***************************************************************
+
+时间：2018-12-12 08:49:46
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:52:45
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1842
+***************************************************************
+
+时间：2018-12-12 08:52:45
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:52:56
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:52:56
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:53:06
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1038
+***************************************************************
+
+时间：2018-12-12 08:53:06
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:55:50
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1842
+***************************************************************
+
+时间：2018-12-12 08:55:50
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:56:20
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:56:20
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:56:21
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:56:21
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:56:46
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:56:46
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:57:06
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:57:06
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:57:17
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:57:17
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:57:35
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:57:35
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:58:03
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:58:03
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:58:34
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:58:34
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:59:10
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:59:10
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 8:59:18
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 879
+***************************************************************
+
+时间：2018-12-12 08:59:18
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:01:45
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1842
+***************************************************************
+
+时间：2018-12-12 09:01:45
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:01:53
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1038
+***************************************************************
+
+时间：2018-12-12 09:01:53
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:28:31
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1845
+***************************************************************
+
+时间：2018-12-12 09:28:32
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:28:52
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 09:28:52
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:30:13
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1846
+***************************************************************
+
+时间：2018-12-12 09:30:14
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:30:34
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 09:30:34
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:39:08
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1851
+***************************************************************
+
+时间：2018-12-12 09:39:08
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:39:28
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 09:39:28
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:40:44
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1858
+***************************************************************
+
+时间：2018-12-12 09:40:44
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:41:04
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 09:41:04
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:43:02
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1860
+***************************************************************
+
+时间：2018-12-12 09:43:02
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:43:22
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 09:43:22
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:45:41
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1869
+***************************************************************
+
+时间：2018-12-12 09:45:41
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:46:01
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 09:46:01
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:48:34
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1873
+***************************************************************
+
+时间：2018-12-12 09:48:34
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 9:48:54
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 09:48:54
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:05:42
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1874
+***************************************************************
+
+时间：2018-12-12 10:05:43
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:06:03
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1040
+***************************************************************
+
+时间：2018-12-12 10:06:03
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:46:19
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1882
+***************************************************************
+
+时间：2018-12-12 10:46:19
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:46:39
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1065
+***************************************************************
+
+时间：2018-12-12 10:46:39
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:50:10
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1881
+***************************************************************
+
+时间：2018-12-12 10:50:10
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:51:07
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1881
+***************************************************************
+
+时间：2018-12-12 10:51:07
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:51:48
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1065
+***************************************************************
+
+时间：2018-12-12 10:51:48
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:54:59
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1874
+***************************************************************
+
+时间：2018-12-12 10:54:59
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:55:20
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1065
+***************************************************************
+
+时间：2018-12-12 10:55:20
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:56:48
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1878
+***************************************************************
+
+时间：2018-12-12 10:56:48
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:57:08
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1065
+***************************************************************
+
+时间：2018-12-12 10:57:08
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:58:07
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1881
+***************************************************************
+
+时间：2018-12-12 10:58:07
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 10:58:27
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox1”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method4(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1068
+***************************************************************
+
+时间：2018-12-12 10:58:27
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 11:02:36
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1883
+***************************************************************
+
+时间：2018-12-12 11:02:36
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 11:16:03
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1883
+***************************************************************
+
+时间：2018-12-12 11:16:03
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 11:20:14
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1883
+***************************************************************
+
+时间：2018-12-12 11:20:14
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 11:26:34
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1885
+***************************************************************
+
+时间：2018-12-12 11:26:34
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 11:27:04
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method3(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1248
+***************************************************************
+
+时间：2018-12-12 11:27:04
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 11:30:10
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1885
+***************************************************************
+
+时间：2018-12-12 11:30:10
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 11:30:57
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method3(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1248
+***************************************************************
+
+时间：2018-12-12 11:30:57
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 13:07:33
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1885
+***************************************************************
+
+时间：2018-12-12 13:07:33
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 13:07:49
+【异常类型】：InvalidOperationException
+【异常信息】：线程间操作无效: 从不是创建控件“PictureBox4”的线程访问它。
+【堆栈调用】：   在 System.Windows.Forms.Control.get_Handle()
+   在 PreviewDemo.Preview.Method3(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1248
+***************************************************************
+
+时间：2018-12-12 13:07:49
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:19:15
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1883
+***************************************************************
+
+时间：2018-12-12 15:19:15
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:23:28
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1883
+***************************************************************
+
+时间：2018-12-12 15:23:28
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:27:04
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1886
+***************************************************************
+
+时间：2018-12-12 15:27:04
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:33:17
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1889
+***************************************************************
+
+时间：2018-12-12 15:33:17
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:48:23
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1887
+***************************************************************
+
+时间：2018-12-12 15:48:23
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:52:12
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1887
+***************************************************************
+
+时间：2018-12-12 15:52:12
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:53:13
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1888
+***************************************************************
+
+时间：2018-12-12 15:53:13
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:57:52
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1888
+***************************************************************
+
+时间：2018-12-12 15:57:52
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 15:58:29
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1888
+***************************************************************
+
+时间：2018-12-12 15:58:29
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:00:45
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1888
+***************************************************************
+
+时间：2018-12-12 16:00:45
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:04:32
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1898
+***************************************************************
+
+时间：2018-12-12 16:04:32
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:05:56
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1905
+***************************************************************
+
+时间：2018-12-12 16:05:56
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:06:22
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1905
+***************************************************************
+
+时间：2018-12-12 16:06:22
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:11:02
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1918
+***************************************************************
+
+时间：2018-12-12 16:11:02
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:11:28
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1918
+***************************************************************
+
+时间：2018-12-12 16:11:28
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:20:11
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1919
+***************************************************************
+
+时间：2018-12-12 16:20:11
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:20:53
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1919
+***************************************************************
+
+时间：2018-12-12 16:20:53
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:27:18
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1919
+***************************************************************
+
+时间：2018-12-12 16:27:18
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:31:01
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1919
+***************************************************************
+
+时间：2018-12-12 16:31:01
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:36:26
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1916
+***************************************************************
+
+时间：2018-12-12 16:36:26
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:36:45
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1916
+***************************************************************
+
+时间：2018-12-12 16:36:45
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:38:45
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1916
+***************************************************************
+
+时间：2018-12-12 16:38:45
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:38:56
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 895
+***************************************************************
+
+时间：2018-12-12 16:38:56
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:41:44
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1916
+***************************************************************
+
+时间：2018-12-12 16:41:44
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:41:55
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.Method5(Object o) 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 895
+***************************************************************
+
+时间：2018-12-12 16:41:55
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:48:32
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1915
+***************************************************************
+
+时间：2018-12-12 16:48:32
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:49:30
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1915
+***************************************************************
+
+时间：2018-12-12 16:49:30
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 16:57:26
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1916
+***************************************************************
+
+时间：2018-12-12 16:57:26
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 17:05:46
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1916
+***************************************************************
+
+时间：2018-12-12 17:05:46
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 17:20:49
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1890
+***************************************************************
+
+时间：2018-12-12 17:20:49
+**************************************************
+
+消息：****************************异常文本****************************
+【出现时间】：2018/12/12 17:41:27
+【异常类型】：NullReferenceException
+【异常信息】：未将对象引用设置到对象的实例。
+【堆栈调用】：   在 PreviewDemo.Preview.shutdownAll() 位置 c:\Users\Administrator.USER-20180112KN\Desktop\CCTV源代码\HaiKang_20181126_zuixin\HaiKang_20181108\PreviewDemo\Preview.cs:行号 1890
+***************************************************************
+
+时间：2018-12-12 17:41:27
+**************************************************
+

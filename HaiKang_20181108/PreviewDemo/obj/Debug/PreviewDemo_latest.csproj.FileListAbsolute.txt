@@ -1,0 +1,11 @@
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\bin\PreviewDemo.exe.config
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\bin\PreviewDemo.exe
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\bin\PreviewDemo.pdb
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo_latest.csprojResolveAssemblyReference.cache
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo.Preview.resources
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo.Time.resources
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo.TVWall.resources
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo.VlcPlayerForm.resources
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo_latest.csproj.GenerateResource.Cache
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo.exe
+C:\Users\Lcq\Desktop\HaiKang_20181108\PreviewDemo\obj\Debug\PreviewDemo.pdb
